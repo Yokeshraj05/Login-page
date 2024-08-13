@@ -1,0 +1,11 @@
+.App
+{
+  display: flex;
+  align-items: center;
+  margin:12.5% 0px;
+  background-color: rgba(215, 219, 220, 0.866);
+}
+/* .Appimg
+{
+  display: inherit;
+} */
